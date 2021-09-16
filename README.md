@@ -1,6 +1,3 @@
-
-
-  
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Moonlight%20GitHub&fontSize=90&animation=fadeIn)
 </br>
 
