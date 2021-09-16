@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Moonlight%20Github&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Moonlight%20GitHub&fontSize=90&animation=fadeIn)
 </br>
 
 
