@@ -48,8 +48,8 @@ moonlight
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... studying2 exam
-- 🌱 I’m currently learning ... machine learning
-- 👯 I’m looking to collaborate on ... 시험기간1234567891011121314
+- 🌱 I’m currently learning ... machine learning15
+- 👯 I’m looking to collaborate on ... 시험기간123456789101112131415
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
